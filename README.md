@@ -70,5 +70,3 @@ ACCESS\_GRANTED >> WELCOME\_TO\_THE\_SYSTEM
 ---
 
 > ***“There is no spoon. Only code.”***
-
-```
